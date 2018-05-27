@@ -1,18 +1,18 @@
 # Site settings
-title: Luck‘s Blog
-SEOTitle: Luck‘s Blog
-header-img: img/post-bg-desk.jpg
+title: Luck‘s Blog  # 博客的标题
+SEOTitle: Luck‘s Blog  # 显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-desk.jpg  # 显示在首页的背景的图片
 email: it_xdj@126.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, Web"
+description: "Every failure is leading towards success."  # 网站介绍
+keyword: "BY, BY Blog, Web"  # 关键词
 url: "http://good2luck.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/good2luck/good2luck.github.io.git" # you code repository
 
-# Sidebar settings
+# Sidebar settings 侧边栏
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
